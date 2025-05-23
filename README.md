@@ -1,6 +1,6 @@
 # Blog Page Project
 
-This is a responsive and visually engaging blog website built using **HTML** and **CSS**. The blog features sections about **Paris coffee culture**, **different music genres**, and **the Norwegian mountains**, complete with images and brief descriptions.
+This is a responsive and visually engaging blog website built using **HTML** and **CSS**. The blog features sections about **Paris coffee culture**, **different music genres**, and **the Norwegian mountains**, complete with images and brief descriptions. the Backend part of the project is coming soon
 
 ## Features
 
